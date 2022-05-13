@@ -4,7 +4,8 @@
 - 👋 Hi, I’m Michael!
 - 👀 I’m interested in ... analysing data using mathematics
 - 🌱 I’m currently learning ... topological data analysis
-- 📫 How to reach me ... [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
+
+- 📫 How to reach me ...   [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
 
 
 
