@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning ... topological data analysis
 - 📫 How to reach me ... 
 
-[1]: m.mcgloin2@nuigalway.ie
 [2]: https://www.linkedin.com/in/michael-mcgloin/
- [![twitter](https://img.icons8.com/bubbles/50/000000/twitter.png)][1]
  [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
 
 ### I have knowledge of the following languages/libraries :
