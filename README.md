@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... topological data analysis
 - 📫 How to reach me ...   
 
-                            [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
+[![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
 
 ### I have knowledge of the following languages/libraries :
 
