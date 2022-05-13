@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m Michael!
-- 👀 I’m interested in ... analysing data
+- 👀 I’m interested in ... analysing data using mathematics
 - 🌱 I’m currently learning ... topological data analysis
 - 📫 How to reach me ... 
 
