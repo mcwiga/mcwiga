@@ -19,7 +19,7 @@
 
 ![](https://img.shields.io/badge/R-orange?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/tidyverse-rgb(197,90,180)?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/Mapper-1776BC?style=for-the-badge&logo=&logoColor=white)
+![](https://img.shields.io/badge/TDAmapper-1776BC?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/r_tda-1776BC?style=for-the-badge&logo=&logoColor=white)
 
 ![](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=orange)
