@@ -6,7 +6,7 @@
 - 📫 How to reach me ... 
 
 [2]: https://www.linkedin.com/in/michael-mcgloin/
- [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
+ <center>[![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]<center/>
 
 ### I have knowledge of the following languages/libraries :
 
