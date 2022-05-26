@@ -16,6 +16,9 @@
 ![](https://img.shields.io/badge/Matplotlib-rgb(21,85,124)?style=for-the-badge)
 ![](https://img.shields.io/badge/scipy-rgb(197,90,180)?style=for-the-badge&logo=scypy&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-rgb(37,150,190)?style=for-the-badge)
+![](https://img.shields.io/badge/PyTorch%20-%23150458.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-rgb(21,85,124)?&style=for-the-badge&logo=opencv&logoColor=white)
+
 
 ![](https://img.shields.io/badge/R-orange?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/tidyverse-rgb(197,90,180)?style=for-the-badge&logo=&logoColor=white)
