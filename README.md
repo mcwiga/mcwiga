@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Michael!
 - 👀 I’m interested in ... analysing data using mathematics
-- 🌱 I’m currently learning ... topological data analysis
+- 🌱 I’m currently learning ... topological data analysis and its applications to ML
 - 📫 How to reach me ...   
 
 [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
