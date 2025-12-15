@@ -2,8 +2,7 @@
 [2]: https://www.linkedin.com/in/michael-mcgloin/
 
 - 👋 Hi, I’m Michael!
-- 👀 I’m interested in ... analysing data using mathematics
-- 🌱 I’m currently learning ... topological data analysis and its applications to ML
+- 👀 I’m interested in ... differential geometry/algebraic geometry
 - 📫 How to reach me ...   
 
 [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
