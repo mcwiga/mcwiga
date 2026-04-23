@@ -15,7 +15,6 @@
 ![](https://img.shields.io/badge/Matplotlib-rgb(21,85,124)?style=for-the-badge)
 ![](https://img.shields.io/badge/OpenCV-rgb(21,85,124)?&style=for-the-badge&logo=opencv&logoColor=white)
 
-
 ![](https://img.shields.io/badge/R-orange?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/tidyverse-rgb(197,90,180)?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/TDAmapper-1776BC?style=for-the-badge&logo=&logoColor=white)
@@ -26,6 +25,8 @@
 ![](https://img.shields.io/badge/html5-rgb(379,220,190)?style=for-the-badge&logo=html5&logoColor=r)
 ![](https://img.shields.io/badge/css-rgb(39,200,390)?style=for-the-badge&logo=css3&logoColor=rgb(1,2,30))
 ![](https://img.shields.io/badge/Angular-rgb(37,150,190)?style=for-the-badge&logo=angular&logoColor=r)
+![](https://img.shields.io/badge/D3.js-grey?style=for-the-badge&logo=d3&logoColor=orange)
+![](https://img.shields.io/badge/RxJs-rgb(21,85,124)?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ![](https://img.shields.io/badge/C%20-%23013243.svg?&style=for-the-badge&logo=c&logoColor=rgb(390,200,30))
 ![](https://img.shields.io/badge/c++%20-%23150458.svg?&style=for-the-badge&logo=cplusplus&logoColor=)
