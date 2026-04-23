@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Reactjs-rgb(37,150,190)?style=for-the-badge&logo=react&logoColor=r)
 ![](https://img.shields.io/badge/html5-rgb(379,220,190)?style=for-the-badge&logo=html5&logoColor=r)
 ![](https://img.shields.io/badge/css-rgb(39,200,390)?style=for-the-badge&logo=css3&logoColor=rgb(1,2,30))
-![](https://img.shields.io/badge/css-rgb(39,200,390)?style=for-the-badge&logo=angular&logoColor=r)
+![](https://img.shields.io/badge/Angular-rgb(37,150,190)?style=for-the-badge&logo=angular&logoColor=r)
 
 ![](https://img.shields.io/badge/C%20-%23013243.svg?&style=for-the-badge&logo=c&logoColor=rgb(390,200,30))
 ![](https://img.shields.io/badge/c++%20-%23150458.svg?&style=for-the-badge&logo=cplusplus&logoColor=)
