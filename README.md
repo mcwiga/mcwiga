@@ -1,8 +1,8 @@
 # About Me
-[2]: https://www.linkedin.com/in/michael-mcgloin/
+[2]: [https://mcwiga.nekoweb.org/]
 
 - 👋 Hi, I’m Michael!
-- 👀 I’m interested in ... math, programming and music
+- 👀 I’m interested in ... geometry, topology and stuff
 - 📫 How to reach me ...   
 
 [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
