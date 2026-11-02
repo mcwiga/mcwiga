@@ -1,5 +1,5 @@
 # About Me
-[2]: [https://mcwiga.nekoweb.org/]
+[2]: https://mcwiga.nekoweb.org/
 
 - 👋 Hi, I’m Michael!
 - 👀 I’m interested in ... geometry, topology and stuff
